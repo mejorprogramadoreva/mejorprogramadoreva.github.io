@@ -1,0 +1,97 @@
+body{
+	background-color: white;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover; 
+}
+#Pikachu{
+	position:fixed;
+	top:5%;
+	width: 100%;
+	right: 0%;
+	}
+#Navegador{
+  font-family: Arial;
+  font-size: 20px;
+  width: 500px;
+  margin: 0 auto;
+  position:fixed;
+  top:30%;
+  left:40%;
+  }
+  ul, ol{
+  list-style: none;
+}
+#Menu li>a{
+  background-color: white;
+  color:black;
+  text-decoration: none;
+  padding: 10px 15px;
+  display: block;
+  opacity:0.9;
+}
+
+#Menu li>a:hover{
+  color: white;
+  background-color: grey;
+}
+#Menu>li{
+  float: left;
+  text-align:center;
+}
+
+#Menu>li>ul{
+  display: none;
+  position:absolute;
+  min-width: 140px;
+}
+#Menu>li:hover>ul {
+  display:block;
+}
+
+#Coche{
+	position:fixed;
+	top:50%;
+	left:34%;
+	border-radius: 20px;
+}
+
+.Coche{
+	margin-left: 33em;
+	margin-right: 33em;
+	margin-top: 33em;
+	border: 2px ridge grey;
+	padding: 200px;
+	background-color: white;
+	border-radius: 5%;
+}
+#carro{
+	position:absolute;
+	top:40%;
+	left:30%;
+	border-radius: 20px;
+}
+#guitarra{
+	position:absolute;
+	top:80%;
+	left:30%;
+	border-radius: 20px;
+}
+#coraza{
+	position:absolute;
+	top:140%;
+	left:30%;
+	border-radius: 20px;
+}
+#pez{
+	position:absolute;
+	top:240%;
+	left:25%;
+	border-radius: 20px;
+}
+#rodolfo{
+	position:absolute;
+	top:180%;
+	left:30%;
+	border-radius: 20px;
+	}
