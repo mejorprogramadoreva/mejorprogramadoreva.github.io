@@ -83,15 +83,31 @@ body{
 	left:30%;
 	border-radius: 20px;
 }
-#pez{
+#pez
+{
 	position:absolute;
 	top:240%;
 	left:25%;
 	border-radius: 20px;
 }
-#rodolfo{
+#rodolfo
+{
 	position:absolute;
 	top:180%;
 	left:30%;
 	border-radius: 20px;
-	}
+}
+#caballo
+{
+	position:absolute;
+	top:260%;
+	left:30%;
+	border-radius: 20px;
+}
+#glass
+{
+	position:absolute;
+	top:280%;
+	left:30%;
+	border-radius: 20px;
+}

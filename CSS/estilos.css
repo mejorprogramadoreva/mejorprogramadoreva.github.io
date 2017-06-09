@@ -54,11 +54,9 @@ ul, ol{
 #Menu>li:hover>ul {
   display:block;
 }
-#Coche{
-	position: relative;
-    top: 480px;
-    right: -110px;
-    width:1280px;
-    height: 480px;
-    
-}
+#rodolfo{
+	position:absolute;
+	top:40%;
+	left:32%;
+	border-radius: 20px;
+	}
